@@ -1,0 +1,35 @@
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary system files
+.DS_Store
+Thumbs.db
+
+
+# MRI dataset - keep local, do not upload
+dataset/
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Training history files
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+mobilenetv2_final.keras
